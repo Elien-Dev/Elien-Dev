@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" />
+    <title>Elien-Dev</title>
+  </head>
+
+  <body>
+    <div id="particles-js"></div>
+    <div class="wrapper">
+      <header class="header">
+        <section class="header__section">
+          <h1 class="header__section--tittle">Elien Terán</h1>
+          <p class="header__section--aboutme">
+            Hello! How nice you are here. My name is Elien Terán, <strong>frontend</strong> developer.<br />I develop web sites with great <strong>UI/UX</strong> interaction for each user who visits these websites.<br />Surely you want your personalized website and more. Have you arrive at right place!
+            <!--Hola! que agradable que estés por aquí. Mi nombre es Elien Teran desarrollador frontend. <br/> Desarrollo sitios web con una gran interacion UI/UX para cada usuarios que visite estos web sites <br/> Seguramente quieres tu web personalizada ¡Haz llegado al sitio correcto!-->
+          </p>
+        </section>
+
+        <nav class="main">
+          <ul class="main__nav">
+            <li class="main__nav--li">
+              <a class="main__nav--li-a" id="tech" href="#tech">TECH</a>
+            </li>
+            <li class="main__nav--li">
+              <a class="main__nav--li-a" id="skills" href="#skills">SKILLS</a>
+            </li>
+            <li class="main__nav--li">
+              <a class="main__nav--li-a" id="about-me" href="#about_me"
+                >ABOUT ME</a
+              >
+            </li>
+            <li class="main__nav--li">
+              <a class="main__nav--li-a" id="projects" href="#projects"
+                >PROJECTS</a
+              >
+            </li>
+            <li class="main__nav--li">
+              <a
+                class="main__nav--li-a"
+                id="downloads"
+                href="./assets/CV/Hoja de Vida (Elien Terán).pdf"
+                download="CV Elien Terán"
+                >DOWNLOADS</a
+              >
+            </li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+
+    <div id="modal" class="bg__modal">
+      <article class="card-inf">
+        <div class="card-inf__bg">
+          <h2 class="card-inf__bg--tittle">TITTLE</h2>
+          <img
+            id="btn-close"
+            loading="lazy"
+            class="card-inf__bg--icon"
+            src="pictures/icons/Back-arrow.png"
+            alt="Back-arrow"
+          />
+        </div>
+
+        <div class="card-inf__content">
+          <picture class="card-inf__content--img">
+            <img
+              class="card-inf__content--img-ref"
+              loading="lazy"
+              src="./pictures/Dev E.jpg"
+              alt="Developer"
+            />
+          </picture>
+
+          <section
+            class="card-inf__content--inf"
+            href="pictures/img-skills/HD-2.png"
+          ></section>
+          <!-- card-inf__content--tech card-inf__content--skills card-inf__content--about card-inf__content--projects -->
+        </div>
+      </article>
+    </div>
+
+    <footer class="footer">
+      <nav class="list">
+        <ul class="list__icon">
+          <li class="list__icon--li">
+            <!-- github.com/ElienJT -->
+            <a
+              class="list__icon--li-a"
+              target="_blank"
+              href="https://github.com/ElienJT"
+            >
+              <img
+                class="list__icon--li-img"
+                loading="lazy"
+                src="pictures/icons/github.png"
+              />
+            </a>
+          </li>
+          <li class="list__icon--li">
+            <a
+              class="list__icon--li-a"
+              target="_blank"
+              href="mailto:elien.dev07@gmail.com"
+            >
+              <img
+                class="list__icon--li-img"
+                loading="lazy"
+                src="pictures/icons/gmail.png"
+              />
+            </a>
+          </li>
+          <li class="list__icon--li">
+            <a
+              class="list__icon--li-a"
+              target="_blank"
+              href="https://www.linkedin.com/in/Elien-Teran-Vzla"
+            >
+              <img
+                class="list__icon--li-img"
+                loading="lazy"
+                src="pictures/icons/linkedin.png"
+              />
+            </a>
+          </li>
+          <li class="list__icon--li">
+            <a
+              class="list__icon--li-a"
+              target="_blank"
+              href="https://t.me/Elien_JTP"
+            >
+              <img
+                class="list__icon--li-img"
+                loading="lazy"
+                src="pictures/icons/telegram.png"
+              />
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
+
+    <script class="script-particles" type="module" src="js/main.js"></script>
+    <script src="js/particles.min.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

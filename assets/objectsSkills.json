@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "src": "../pictures/img-skills/HD-1.png",
+      "text_content": "Programming Software Management"
+    },
+    {
+      "src": "../pictures/img-skills/HD-2.png",
+      "text_content": "Programmnig Logic"
+    },
+    {
+      "src": "../pictures/img-skills/HD-3.png",
+      "text_content": "Linux/Windows Command Terminal"
+    },
+    {
+      "src": "../pictures/img-skills/HD-4.png",
+      "text_content": "Design UI/UX"
+    },
+    {
+      "src": "../pictures/img-skills/HD-5.png",
+      "text_content": "Responsive Design"
+    },
+    {
+      "src": "../pictures/img-skills/HD-6.png",
+      "text_content": "Understandng of Reading in English"
+    }
+  ],
+
+  [
+    {
+      "src": "../pictures/img-skills/SF-1.png",
+      "text_content": "Teamwork"
+    },
+    {
+      "src": "../pictures/img-skills/SF-2.png",
+      "text_content": "Self-Taught Learning"
+    },
+    {
+      "src": "../pictures/img-skills/SF-3.png",
+      "text_content": "Comuncative"
+    },
+    {
+      "src": "../pictures/img-skills/SF-4.png",
+      "text_content": "Teamwork"
+    },
+    {
+      "src": "../pictures/img-skills/SF-5.png",
+      "text_content": "Logical Thinking"
+    },
+    {
+      "src": "../pictures/img-skills/SF-6.png",
+      "text_content": "Organized Work"
+    }
+  ]
+]

@@ -1,0 +1,50 @@
+[
+    [
+        {
+            "src": "../pictures/img-tech/img-1.png",
+            "text_content": "HTML"
+        },
+        {
+            "src": "../pictures/img-tech/img-2.png",
+            "text_content": "CSS"
+        },
+        {
+            "src": "../pictures/img-tech/img-3.png",
+            "text_content": "JavaScript"
+        },
+        {
+            "src": "../pictures/img-tech/img-4.png",
+            "text_content": "React JS"
+        },
+        {
+            "src": "../pictures/img-tech/img-5.png",
+            "text_content": "Tailwind"
+        },
+        {
+            "src": "../pictures/img-tech/img-6.png",
+            "text_content": "GIT - Version Controller"
+        },
+        {
+            "src": "../pictures/img-tech/img-7.png",
+            "text_content": "GIT-HUB"
+        },
+        {
+            "src": "../pictures/img-tech/img-8.png",
+            "text_content": "SASS"
+        },
+        {
+            "src": "../pictures/img-tech/img-9.png",
+            "text_content": "JQuery"
+        }
+    ],
+    [
+        {
+            "src": "../pictures/img-tech/imgTL-1.png",
+            "text_content": "Node Js"
+        },
+        {
+        "src": "../pictures/img-tech/imgTL-2.png",
+        "text_content": "Structure Query Language"
+        }
+    ]
+]

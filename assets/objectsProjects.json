@@ -1,0 +1,14 @@
+[
+    {
+        "src": "../pictures/img-projects/Project-one-img.jpg",
+        "text_content": "Landing Page Fylo",
+        "tech" : "<span>JavaScript</span> <span>HTML</span> <span>CSS</span> <span>SASS</span>",
+        "description" : "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis aliquid minima qui earum placeat accusamus adipisci. Incidunt, non quasi. Voluptas repudiandae deleniti nemo incidunt voluptatibus perspiciatis aperiam illo dolores est!</p>"
+    },
+    {
+        "src": "../pictures/img-projects/Project-two-img.jpg",
+        "text_content": "Burj al arab",
+        "tech" : "<span>JavaScript</span> <span>HTML</span> <span>CSS</span> <span>SASS</span>",
+        "description" : "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis aliquid minima qui earum placeat accusamus adipisci. Incidunt, non quasi. Voluptas repudiandae deleniti nemo incidunt voluptatibus perspiciatis aperiam illo dolores est!</p>"
+    }
+]
