@@ -90,7 +90,7 @@ document.addEventListener("click", (e) => {
   switch (e.target.id) {
     case "tech":
 
-    fetch('https://github.com/Elien-Dev/Elien-Dev/blob/main/assets/objectsTech.json')
+    fetch('https://raw.githubusercontent.com/Elien-Dev/Elien-Dev/main/assets/objectsTech.json')
       .then(resp => resp.json())
       .then(objTech => {
         contentMainCards(
@@ -107,7 +107,7 @@ document.addEventListener("click", (e) => {
       break;
 
     case "skills":
-      fetch('https://github.com/Elien-Dev/Elien-Dev/blob/main/assets/objectsSkills.json')
+      fetch('https://raw.githubusercontent.com/Elien-Dev/Elien-Dev/main/assets/objectsSkills.json')
       .then(resp => resp.json())
       .then(objSkills => {
         contentMainCards(1, `Hard Skills`, `Soft Skills`, objSkills[0], objSkills[1], 'card-inf__content--artS', 'card-inf__content--i', 'card-inf__content--a');
@@ -143,7 +143,7 @@ document.addEventListener("click", (e) => {
       modal.classList.add("bg__modal");
       tittle.textContent = btnMain[3].textContent;
 
-      const urlProjects = 'https://github.com/Elien-Dev/Elien-Dev/blob/main/assets/objectsProjects.json'
+      const urlProjects = 'https://raw.githubusercontent.com/Elien-Dev/Elien-Dev/main/assets/objectsProjects.json'
 
       fetch(urlProjects)
       .then(resp => resp.json())
