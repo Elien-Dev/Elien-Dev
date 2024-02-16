@@ -1,6 +1,6 @@
 [
     {
-        "src": "../pictures/img-projects/Project-one-img.jpg",
+        "src": "https://focus.hidubai.com/content/images/2022/11/BurjAlArab-Cover.jpg",
         "text_content": "Landing Page Fylo",
         "tech" : "<span>JavaScript</span> <span>HTML</span> <span>CSS</span> <span>SASS</span>",
         "description" : "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis aliquid minima qui earum placeat accusamus adipisci. Incidunt, non quasi. Voluptas repudiandae deleniti nemo incidunt voluptatibus perspiciatis aperiam illo dolores est!</p>"
